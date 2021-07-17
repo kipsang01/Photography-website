@@ -1,0 +1,39 @@
+h1{
+    border-style: 10px solid green;
+    padding-left: 40%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color: chartreuse;
+    background-color: dimgray;
+    }
+    body{
+    background-color:azure;
+    }
+    ul{
+    align-items: center;
+    border-style: 1px solid rgb(34, 33, 33);
+    border-left-color: darkseagreen;
+    background-color: darkgray;
+    width: 300px;
+    height: 70px;
+    overflow: auto;
+    }
+    div{
+    background-color: cornflowerblue;
+    padding-left: 10%;
+    margin: 0%;
+    }
+    span{
+    padding-left: 10%;
+    }
+    h2{
+    padding-left: 30%;
+    }
+    .first{
+    text-align: center;
+    }
+    footer{
+    height: 100px;
+    background-color: darkgrey;
+    margin: 0%;
+    }
